@@ -22,8 +22,8 @@
         </div>
         <br>
         <div class="horizontal">
-           <button class="btn" type="submit">Submit</button>
-           <button type="button" @click="closeForm">Cancel</button> 
+           <button class="btn" type="submit">Отправить</button>
+           <!-- //<button type="button" @click="closeForm">C</button>  -->
         </div>
         
       </form>
